@@ -121,7 +121,7 @@
         <a href="#">Home</a>
         <a href="#">TV Shows</a>
         <a href="#">Movies</a>
-        <a href="#">Bitlu</a>
+        <a href="#">Language</a>
         
 <a href="#">Kids</a>
     </div>
