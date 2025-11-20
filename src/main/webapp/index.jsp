@@ -122,6 +122,8 @@
         <a href="#">TV Shows</a>
         <a href="#">Movies</a>
         <a href="#">Language</a>
+        <a href="#">TolloywoodLanguage</a>
+        <a href="#">KollywoodLanguage</a>
         
 <a href="#">Kids</a>
     </div>
